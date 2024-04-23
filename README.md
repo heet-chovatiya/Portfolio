@@ -3,8 +3,7 @@ It is a creative, minimal and clean design. It is suitable for Designer, Develop
 
 
 ### Important Links
-* [Live Demo](https://react-portfolio-template-orpin.vercel.app/)
-* Developed By: [DewCodes.com](https://dewcodes.com/)
+* [Live Demo](https://heetchovatiya.portfolio/)
 
 
 ## Features
@@ -25,5 +24,5 @@ It is a creative, minimal and clean design. It is suitable for Designer, Develop
 
 
 ## Contact Developer:
-* You can mail me: ravi.9793@gmail.com
-* You can WhatsApp me: +91-9122574715
+* You can mail me: heet.chovatiya0502@gmail.com
+* You can WhatsApp me: +91-9687767069
