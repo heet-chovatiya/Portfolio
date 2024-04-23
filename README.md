@@ -1,5 +1,3 @@
-# Personal Portfolio ReactJS Template
-It is a creative, minimal and clean design. It is suitable for Designer, Developer, Specialist, Content Writer, Instructor, Photographer, Freelancer or others expert who Show their professional projects and services. It is 100% responsive and very fast.
 
 
 ### Important Links
